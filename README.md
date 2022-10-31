@@ -3,7 +3,7 @@
 This project was made to try and read 28k worth of json data with the use of web worker 
 
 ## Demo Links
-
+Can't be deployed currently because of a bug in web service worker (app works in development)
 
 ### `npm start`
 
