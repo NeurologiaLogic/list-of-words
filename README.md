@@ -3,17 +3,13 @@
 This project was made to try and read 28k worth of json data with the use of web worker
 
 ## Demo Links
-<<<<<<< HEAD
 
 This project was made to try and read 28k worth of json data with the use of web worker
 
 ## Screenshoots
-![img1](../Screenshoot/1.jpg)
-![img2](../Screenshoot/1.jpg)
-![img3](../Screenshoot/1.jpg)
-=======
-Can't be deployed currently because of a bug in web service worker (app works in development)
->>>>>>> f7450abab5771d9eb4b7ba1feeec765f4d5e8efe
+![img1](https://raw.githubusercontent.com/NeurologiaLogic/list-of-words/master/Screenshoot/1.jpg)
+![img2](https://raw.githubusercontent.com/NeurologiaLogic/list-of-words/master/Screenshoot/2.jpg)
+![img3](https://raw.githubusercontent.com/NeurologiaLogic/list-of-words/master/Screenshoot/3.jpg)
 
 ### `npm start`
 
