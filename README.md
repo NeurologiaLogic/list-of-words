@@ -1,9 +1,15 @@
 # List Of Words and meaning
 
-This project was made to try and read 28k worth of json data with the use of web worker 
+This project was made to try and read 28k worth of json data with the use of web worker
 
 ## Demo Links
 
+This project was made to try and read 28k worth of json data with the use of web worker
+
+## Screenshoots
+![img1](../Screenshoot/1.jpg)
+![img2](../Screenshoot/1.jpg)
+![img3](../Screenshoot/1.jpg)
 
 ### `npm start`
 

@@ -1,6 +1,6 @@
 import Worker from 'simple-web-worker'
 
-let arr = ['a']
+let arr = []
 let regex_input = null;
 const actions=[
   { message: 'add_worker', func: (array,regex_input,input_length)=>{
@@ -8,7 +8,7 @@ const actions=[
       for (let data of array)
         if (data.match(regex_input)&&input_length===data.length)
           arr.push(data)
-      return arr
+     return arr
   }},
 ]
 

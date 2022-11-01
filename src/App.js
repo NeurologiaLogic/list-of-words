@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1>Simple Word List Search</h1>
+      <h1 style={{ overflowWrap:'word-break',margin:'1rem 0.5rem' }}>Simple Word List Search</h1>
       <input type="text" name="" id="" ref={input} onKeyPress={(e)=>e.key==="Enter" && search()}/>
       <div className="container" style={{ overflow:"auto", height:"300px", width:"80%",backgroundColor:"#FEFEFE",margin:"2rem auto" }}>
           {
